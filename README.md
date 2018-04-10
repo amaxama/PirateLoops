@@ -33,7 +33,7 @@ Output:
 
 ## Deployment
 
-Program can be run in any Java compatible IDE
+Files can be run in any Java compatible IDE
 
 
 
